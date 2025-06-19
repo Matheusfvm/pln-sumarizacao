@@ -19,5 +19,5 @@ O **recogna-nlp/ptt5-base-summ** foi fine-tuned com o seguinte dataset [recogna-
 
 ## Noticias utilizadas
 
-[Link da notícia usada pelo Bruno](https://g1.globo.com/ciencia/noticia/2025/06/19/mumia-pre-inca-de-mil-anos-e-encontrada-em-escavacao-de-gasoduto-no-peru-fotos.ghtml)
+[Link da notícia usada pelo Bruno](https://g1.globo.com/ciencia/noticia/2025/06/19/mumia-pre-inca-de-mil-anos-e-encontrada-em-escavacao-de-gasoduto-no-peru-fotos.ghtml)\
 [Link da notícia usada pelo Matheus](https://g1.globo.com/mundo/noticia/2025/06/19/furacao-erick-toca-solo-mexico-ventos-mais-de-200-kmh.ghtml)
